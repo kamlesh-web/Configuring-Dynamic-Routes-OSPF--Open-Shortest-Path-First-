@@ -1,3 +1,11 @@
+## OSPF Network Topology
+
+<img width="1366" height="768" alt="Coonfiguring OSPF Overview" src="https://github.com/user-attachments/assets/850709e8-a8ef-44ec-af82-511e9b3b9b64" />
+
+---    
+   
+## Step by Step OSPF Configurations
+    
     Router>
     Router>enable
     Router#
@@ -123,3 +131,7 @@
     O*E2 0.0.0.0/0 [110/1] via 10.10.10.19, 00:02:47, GigabitEthernet0/0/0
     
     Router7#
+---
+## OSPF Connectivity test
+<img width="1366" height="768" alt="Coonfiguring OSPF PC2 Connectivity" src="https://github.com/user-attachments/assets/52f55821-cd67-4641-a07a-ab268c8fd2e9" />
+
